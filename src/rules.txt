@@ -1,0 +1,5 @@
+The Rules are simple
+Get as close as you can to 21
+Ace's can either be 1 or 11
+who ever is closer to 21 wins
+If you have 21 you automatically win
